@@ -1,4 +1,4 @@
-## Hi there 👋
+The contributions are from CS50.. I have no idea why the codespace updates so often
 
 <!--
 **Sveldevorls/Sveldevorls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
