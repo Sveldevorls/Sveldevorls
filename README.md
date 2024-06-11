@@ -1,4 +1,4 @@
-Most of the contributions are from CS50
+Contributions are from CS50
 
 <!--
 **Sveldevorls/Sveldevorls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
